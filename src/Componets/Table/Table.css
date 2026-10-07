@@ -1,0 +1,45 @@
+.tabla {
+  background: #888888;
+  padding: 24px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.tabla h3 {
+  margin: 0 0 16px;
+  font-size: 18px;
+  color: #111111;
+}
+
+.tabla-scroll {
+  overflow-x: auto;
+}
+
+.tabla table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.tabla th {
+  padding: 12px 16px;
+  font-size: 14px;
+  color: #150050;
+  border-bottom: 2px solid #150050;
+}
+
+.tabla td {
+  padding: 12px 16px;
+  font-size: 14px;
+  color: #111111;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.tabla tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.tabla-valor {
+  font-weight: bold;
+  color: #150050;
+}
