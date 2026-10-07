@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/examen-osiel-1/static/css/main.e18e408b.css",
+    "main.js": "/examen-osiel-1/static/js/main.85d8cac4.js",
+    "static/js/453.7e6ee566.chunk.js": "/examen-osiel-1/static/js/453.7e6ee566.chunk.js",
+    "index.html": "/examen-osiel-1/index.html",
+    "main.e18e408b.css.map": "/examen-osiel-1/static/css/main.e18e408b.css.map",
+    "main.85d8cac4.js.map": "/examen-osiel-1/static/js/main.85d8cac4.js.map",
+    "453.7e6ee566.chunk.js.map": "/examen-osiel-1/static/js/453.7e6ee566.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18e408b.css",
+    "static/js/main.85d8cac4.js"
+  ]
+}
